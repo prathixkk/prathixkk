@@ -6,6 +6,8 @@
 I believe in building with style and purpose—whether it's refining UI flows or optimizing performance under the hood.
 My journey with Flutter has just begun (check out my first project!), and I'm excited to expand across platforms and push creative boundaries.</h6>
 
+<h6>I also explore graphic design and motion, working with tools like Photoshop, Illustrator, After Effects, Premiere Pro, and Media Encoder to bring ideas to life with cinematic polish.</h6>
+
 ###
 
 <div align="center">
@@ -35,6 +37,16 @@ My journey with Flutter has just begun (check out my first project!), and I'm ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
