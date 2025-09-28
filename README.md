@@ -1,8 +1,10 @@
-<h2 align="left">👋 Hi, I'm Prathik Bangera
-Currently diving deep into Android development, with a growing curiosity for desktop and iOS applications.
+<h2 align="left">👋 Hi, I'm Prathik Bangera </h2>
+
+###
+
+<h6>Currently diving deep into Android development, with a growing curiosity for desktop and iOS applications.
 I believe in building with style and purpose—whether it's refining UI flows or optimizing performance under the hood.
-My journey with Flutter has just begun (check out my first project!), and I'm excited to expand across platforms and push creative boundaries.
-</h2>
+My journey with Flutter has just begun (check out my first project!), and I'm excited to expand across platforms and push creative boundaries.</h6>
 
 ###
 
