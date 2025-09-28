@@ -6,7 +6,7 @@
 I believe in building with style and purpose—whether it's refining UI flows or optimizing performance under the hood.
 My journey with Flutter has just begun (check out my first project!), and I'm excited to expand across platforms and push creative boundaries.</h6>
 
-<h6>I also explore graphic design and motion, working with tools like Photoshop, Illustrator, After Effects, Premiere Pro, and Media Encoder to bring ideas to life with cinematic polish.</h6>
+<h6>I also explore graphic design and motion, working with tools like Photoshop, Illustrator, After Effects, and Premiere Pro to bring ideas to life with cinematic polish.</h6>
 
 ###
 
