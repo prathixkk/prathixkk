@@ -37,6 +37,7 @@ My journey with Flutter has just begun (check out my first project!), and I'm ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
+###
 
 <div align="left">
   <a href="https://www.instagram.com/prathixkk/" target="_blank">
@@ -55,12 +56,12 @@ My journey with Flutter has just begun (check out my first project!), and I'm ex
 
 ###
 
-<br clear="both">
-
-<div align="right">
+<div align="left">
   <a href="https://open.spotify.com/user/7rpjrl9xe64kkdzjrll1itovf">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=7rpjrl9xe64kkdzjrll1itovf&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 ###
